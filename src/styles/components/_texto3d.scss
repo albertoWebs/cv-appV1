@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit:900');
+
+
+$LIGHTING_FLOOR: 1;
+$LIGHTING_CEIL: 2;
+$LIGHTING_FLAT: 3;
+
+.texto3d__main{
+ position: relative;
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 2em;
+    color: $dark-grey;
+}
