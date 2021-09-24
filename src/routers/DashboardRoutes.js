@@ -24,7 +24,7 @@ export const DashboardRoutes = () => {
                     <Route exact  path="/experiencias" component={ExperienciaScreen} />
                     <Route exact  path="/initial" component={InicialScreen}  />
                     <Route exact path="/elemento/:elementoId" component={ElementoScreen} />
-                  <Redirect to={InicialScreen}/>
+                 <Redirect to="/initial" />
                   
                 </Switch>
               
