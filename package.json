@@ -1,6 +1,6 @@
 {
   "name": "cv-app",
-  "homepage": "Method Not Allowed",
+  "homepage": "https://git.heroku.com/cvappv1.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
